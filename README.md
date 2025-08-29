@@ -6,7 +6,7 @@ Fornece endpoints para **criar, listar, atualizar e excluir usuários**.
 ---
 
 ## Tecnologias
-- [Laravel 9+](https://laravel.com/)
+- [Laravel 9](https://laravel.com/)
 - [PHP](https://www.php.net/)
 - [MySQL](https://www.mysql.com/)
 - [Composer](https://getcomposer.org/)
