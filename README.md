@@ -38,7 +38,7 @@ cp .env.example .env
 Edite o `.env` e configure a conexão com o MySQL:
 
 ``` env
-DB_DATABASE=laravel_api
+DB_DATABASE=api_laravel
 DB_USERNAME=root
 DB_PASSWORD=
 ```
